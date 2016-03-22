@@ -34,6 +34,12 @@ And converts to the standard egta specification:
 }
 ```
 
+reduce_strats.jq
+----------------
+
+The opposite of `expand_strats.jq`.
+Takes the standard format and converts it to the compressed form.
+
 social_welfare.jq
 -----------------
 
